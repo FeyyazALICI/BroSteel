@@ -7,7 +7,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "hull_steel")  // Specify the table name
+@Table(name = "hull_steel")  // Specifying the table name
 public class HullSteelPojo {
 
     @Id

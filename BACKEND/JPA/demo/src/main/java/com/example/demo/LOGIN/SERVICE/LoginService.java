@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.LOGIN.ENTITY.LoginPojo;
 import com.example.demo.LOGIN.ENTITY.LoginResponseDTO;
-import com.example.demo.LOGIN.REPOSITORY.LoginRepository;
+
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.NoResultException;

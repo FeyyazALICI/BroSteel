@@ -6,7 +6,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "product_categories")  // Specify the table name
+@Table(name = "product_categories")  // Specifying the table name
 public class MainCategoriesPojo {
     @Id
     @Column(name = "name")
